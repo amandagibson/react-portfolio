@@ -57,13 +57,13 @@ let resumeData = {
       {
         "name":"FizzBuzz",
         "description":"JavaScript",
-        "url":"https://wonderful-newton-3d54e6.netlify.com/"
+        "url":"https://wonderful-newton-3d54e6.netlify.com/",
         "imgurl":"https://sabe.io/classes/javascript/icon.png"
       },
       {
         "name":"ATM Challenge",
         "description":"Ruby",
-        "url":""
+        "url":"",
         "imgurl":"https://image.flaticon.com/icons/png/128/919/919842.png"
       },
 
