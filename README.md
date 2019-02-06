@@ -1,5 +1,8 @@
+[WIP]
 
 deployed at https://amandagibson.netlify.com/
+
+TODO: add working links to github repos
 
 ______________________
 - Credit where credit is due:
