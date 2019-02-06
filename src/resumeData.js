@@ -57,6 +57,7 @@ let resumeData = {
       {
         "name":"FizzBuzz",
         "description":"JavaScript",
+        "url":"https://wonderful-newton-3d54e6.netlify.com/"
         "imgurl":"https://sabe.io/classes/javascript/icon.png"
       },
       {
