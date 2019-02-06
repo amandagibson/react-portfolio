@@ -3,7 +3,7 @@ let resumeData = {
     "name": "Amanda Gibson",
     "role": "Full Stack Bootcamp Student",
     "linkedinId":"amanda-gibson-567356160",
-    "skypeid": "Your skypeid",
+    "skypeid": "gibson.amanda.mae@gmail.com",
     "roleDescription": " I like to spend my time learning about new technologies, meeting new people and travelling to new places. I collect books and enjoy a nice conversation over a good glass of wine or bourbon.",
     "socialLinks":[
         {
