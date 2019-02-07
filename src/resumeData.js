@@ -34,14 +34,14 @@ let resumeData = {
 			MonthOfPassing: "April",
 			YearOfPassing: "2019",
 			Achievements:
-				"Learning an insane amount of things with a positive attitude."
+				"Learning an insane amount of things in a short amount of time with a positive attitude."
 		}
 	],
 	work: [
 		{
 			CompanyName: "Available for hire",
 			specialization: "Full Stack Developer",
-			Achievements: "I can make funny jokes with you at the water cooler."
+			Achievements: "I can make funny jokes with you at the water cooler, beat you in Soul Caliber while making your software dreams come true."
 		}
 	],
 	skillsDescription: "   ",
