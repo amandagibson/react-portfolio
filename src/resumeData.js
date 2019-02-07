@@ -1,7 +1,7 @@
 let resumeData = {
 	imagebaseurl: "https://rbhatia46.github.io/",
 	name: "Amanda Gibson",
-	role: "Full Stack Development Student",
+	role: "Full-Stack Development Student",
 	linkedinId: "amanda-gibson-567356160",
 	skypeid: "gibson.amanda.mae@gmail.com",
 	roleDescription:
