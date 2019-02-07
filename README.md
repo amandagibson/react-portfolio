@@ -2,7 +2,8 @@
 
 deployed at https://amandagibson.netlify.com/
 
-TODO: add working links to github repos
+TODO: <s>add working links to github repos </s>
+fix HP bars on language skills
 
 ______________________
 - Credit where credit is due:
