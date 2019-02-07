@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Full Stack Bootcamp Student",
     "linkedinId":"amanda-gibson-567356160",
     "skypeid": "gibson.amanda.mae@gmail.com",
-    "roleDescription": " I like to spend my time learning about new technologies, meeting new people and travelling to new places. I collect books and enjoy a nice conversation over a good glass of wine or bourbon.",
+    "roleDescription": " I like to spend my time learning about new technologies, meeting new people and travelling to new places. I collect books and enjoy nice conversation over a good glass of wine or a nice bourbon.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -57,7 +57,7 @@ let resumeData = {
       {
         "name":"FizzBuzz",
         "description":"JavaScript",
-        "url":"https://wonderful-newton-3d54e6.netlify.com/",
+        "url":"https://fizzbuzzbomb.netlify.com/",
         "imgurl":"https://sabe.io/classes/javascript/icon.png"
       },
       {
