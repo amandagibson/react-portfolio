@@ -41,7 +41,7 @@ let resumeData = {
 		{
 			CompanyName: "Available for hire",
 			specialization: "Full Stack Developer",
-			Achievements: "I can make funny jokes with you at the water cooler, beat you in Soul Caliber while making your software dreams come true."
+			Achievements: "I can make funny jokes with you at the water cooler and beat you in Soul Caliber all while making your software dreams come true."
 		}
 	],
 	skillsDescription: "   ",
