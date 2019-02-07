@@ -26,7 +26,7 @@ let resumeData = {
 	aboutme:
 		"I am currently attending a Full-Stack Web Developer bootcamp at CraftAcademy in Gothenburg, Sweden where I have resided for the past five years with my Swedish sambo. I was born and raised in Atlanta, Georgia and surrounding areas and remained there until I relocated to Sweden in 2013.",
 	address: "Sweden",
-	website: "https://github.com/amandagibson",
+	website: "gibson.amanda.mae@gmail.com",
 	education: [
 		{
 			UniversityName: "CraftAcademy",
